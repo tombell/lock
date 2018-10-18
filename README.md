@@ -1,6 +1,6 @@
 # lock
 
-Command-line app to quickly lock macOS.
+CLI app to quickly lock macOS.
 
 ## Installation
 
